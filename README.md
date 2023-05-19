@@ -1,7 +1,7 @@
 # COVID19_Malaysian_Twitter_Sentiment
 A mini project to track public sentiment changes in Malaysia throughout the duration of the COVID19 pandemic
 
-![alt text]([https://ibb.co/yFSP41y])
+![alt text](https://github.com/[JoshuaLZJ]/[COVID19_Malaysian_Twitter_Sentiment]/blob/[main]/Twitter_Sentiment_plot.png?raw=true)
 
 Hey guys! I've been doing some web scraping on Malay tweets regarding COVID19. I decided to do some sentiment analysis using a NLP model (model is publicly available at https://github.com/huseinzol05/malaya). What the model does is taking in a chunk of text and outputs a sentiment score between 0 to 1 (1 being the text has 100% positive sentiment and 0 being the text is 100% negative). The model is not 100% accurate but it is considered to be comparable to other state-of-the-art models.
 
